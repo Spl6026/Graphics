@@ -1,0 +1,4 @@
+﻿  1102928.cpp
+C:\Users\paul\Desktop\1102928\1102928.cpp(273,32): warning C4309: '引數': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+C:\Users\paul\Desktop\1102928\1102928.cpp(412,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  1102928.vcxproj -> C:\Users\paul\Desktop\1102928\Debug\1102928.exe

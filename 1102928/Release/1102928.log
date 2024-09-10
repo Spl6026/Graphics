@@ -1,0 +1,8 @@
+﻿  1102928.cpp
+E:\NCYU\嘉大\大二\下\計算機圖學\1102928計算機圖學\1102928\1102928.cpp(273,32): warning C4309: '引數': 轉換導致常數值遭截斷; 可能需要使用較大的類型
+E:\NCYU\嘉大\大二\下\計算機圖學\1102928計算機圖學\1102928\1102928.cpp(412,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  正在產生程式碼
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  1102928.vcxproj -> E:\NCYU\嘉大\大二\下\計算機圖學\1102928計算機圖學\1102928\Release\1102928.exe
